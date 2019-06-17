@@ -1,0 +1,47 @@
+
+
+Hi Team ,
+These are the review comments for the commits made so far:
+Usecase : Creating dynamic flow in super admin console
+When we go back all the data is disappearing from form during creation (data should be there in form fields when user goes back in the form)
+Only textbox is working with template
+Create template button is not working after first template is created.
+Validations are missing.
+Debug objects are appearing in template view.
+Base url need to be used in all API calls.
+back and forth links are not working.
+template saving is not completed, Still in browser local storage.
+All of the above are minor changes / errors that can be fixed . Please update these changes by 27-10-18, EOD and revert to this mail in detail on what updates you have made to fix the above issues .
+Please make sure you address all the issues mentioned in this mail . If you need any help please feel free to contact .
+
+
+Thank you ,
+Rahul Kumar Korada.
+/-------------------------------------------------------/
+
+
+Hi team,
+
+
+These are the comments i have after the review of commits made so far to RentAgreement repositories
+draggable form elements are duplicated if added after <hr> in the form  (need to set dimensions for draggable component to avoid this)
+error while sending post request (POST http://127.0.0.1:8000/api/Forms/store 500 (Internal Server Error))(fid missing in client DB please check columns in DB)
+Validations should be added to the from fields in template info (1st step of the form)
+Will update if there are any other issues that need to be resolved.
+
+Thank you ,
+Rahul Kumar Korada.
+/-------------------------------------------------------/
+
+
+Hi team,
+
+
+These are the comments i have after the review of commits made so far to RentAgreement repositories
+draggable form elements are duplicated if added after <hr> in the form  (need to set dimensions for draggable component to avoid this)
+error while sending post request (POST http://127.0.0.1:8000/api/Forms/store 500 (Internal Server Error))(fid missing in client DB please check columns in DB)
+Validations should be added to the from fields in template info (1st step of the form)
+Will update if there are any other issues that need to be resolved.
+
+Thank you ,
+Rahul Kumar Korada.

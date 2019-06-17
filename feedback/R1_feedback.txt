@@ -1,0 +1,34 @@
+Please fine below requested details for release 1:
+
+Description of Project:
+
+Paymatrix has solution to process rental agreement on existing product. (www.paymatrix.in) We are launching couple of new products including one which can eventually be on Blockchain.
+1. Build Paymatrix rental agreement REST API to generate rent agreements and integrate with third parties
+2. the form should be built dynamically. Parameters of form will change based on type and location of a property;
+a. Rental agreement solution is for residential as well as for commercial properties
+b. Some states have different format of agreement, stamp value etc
+5. Agreement draft is generated as PDF with standard Paymatrix format
+6. Same should also be on blockchain using smart contracts
+
+Percentage of complete:
+
+Building Dynamic Form is the most challenging part of the project, which team could complete. The remaining task can be completed with ease as already they are familiar with the stack (Vue, Laravel and some basics on Blockchain) and remaining use cases won't take much time and individually each one can take-up a use case and complete. I'm quite confident on team - given they allocated same efforts :)
+I would keep it as 40% of completion. But 80% of complexity of the project is taken care!
+
+
+Status Update:
+Dynamic Form creation is completed. Remaining use cases are minor can be completed by three members. Consuming the Rental Agreement API and creating Smart contract could take one resource efforts, but achievable.
+
+Paymatrix team thoroughly enjoyed working with all - Kartik, Sai Dinesh, Aditya and Vishwath- so far. They went extra mile to complete the assignment. Committed and responsible. I call them "Rock Stars".
+
+I look forward to seeing the same enthusiasm in accomplishing the remaining use cases of project successfully, with high quality in production by the final release.
+
+
+Thanks,
+Muralidhar Nayak G
+CIO & Co-founder, Paymatrix.in
++91 89710 71004 | 040 - 69999664
+muralidhar.nayak@paymatrix.co.in
+www.paymatrix.in
+#2, T-HUB, Catalyst Building, Gachibowli, Hyderabad
+Telangana-500032
